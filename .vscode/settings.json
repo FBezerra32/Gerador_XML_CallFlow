@@ -1,0 +1,10 @@
+{
+  "files.encoding": "utf8",
+  "[xml]": {
+    "files.encoding": "iso88591"
+  },
+  "files.autoGuessEncoding": false,
+  "search.exclude": {
+    "Gerado/**": true
+  }
+}
